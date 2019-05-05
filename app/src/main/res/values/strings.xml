@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Fuadmz Apps</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title"><b>Profile</b></string>
+    <string name="slide_1_desc">Temukan Data Pribadi Saya di Sini</string>
+
+    <string name="slide_2_title"><b>Daily</b></string>
+    <string name="slide_2_desc">Yang Kepo Boleh Merapat</string>
+
+    <string name="slide_3_title"><b>Gallery</b></string>
+    <string name="slide_3_desc">Temukan Lelaki Idaman :)</string>
+
+    <string name="title_home">Home</string>
+
+    <string name="home_desc">Hanya Seorang Hamba Allah\n yang Fakir Ilmu</string>
+
+
+</resources>
